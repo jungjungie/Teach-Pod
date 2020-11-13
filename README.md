@@ -23,11 +23,11 @@
 
 Mock parent account:
 - username: rmin@email.com
-- password: secret123789
+- password: password
 
 Mock teacher account:
 - username: lwoods2@email.com
-- password: secret123789
+- password: password
 
 
 As it becomes more and more evident that the world's battle with Covid-19 is not a fleeting historical occurrence, the need to find a new normal is more apparent. One of the biggest pieces to that puzzle is the approach to the school year. If students are unable to safely go back to school, the burden is placed on working class parents to ensure their education. As seen in the New York Times, "Desperate for a better solution, parents around the country have started organizing 'pandemic pods,' or home schooling pods, for the fall, in which groups of 3 to 10 students learn together in homes under the tutelage of the children’s parents or a hired teacher."
